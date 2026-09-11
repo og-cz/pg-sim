@@ -1,6 +1,6 @@
 # Memory Management Simulator
 
-A comprehensive Java GUI application that simulates memory management techniques used in operating systems, specifically **Paging** and **Segmentation**.
+A Java GUI application that simulates memory management techniques used in operating systems, specifically Paging and Segmentation.
 
 ## Demo
 
